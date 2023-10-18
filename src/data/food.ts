@@ -14,12 +14,12 @@ export interface FoodItem {
 // values from: http://dieteplaisir.canalblog.com/archives/2012/05/18/24268064.html
 export const FOOD_ITEMS: Array<FoodItem> = [
   {
-    name: "Sushi",
-    kcal: 45,
+    name: "PecceSushi",
+    kcal: 450,
     imageUrl: Sushi
   },
   {
-    name: "Maki",
+    name: "MakiN'aPasFaitça",
     kcal: 20,
     imageUrl: Maki
   },
