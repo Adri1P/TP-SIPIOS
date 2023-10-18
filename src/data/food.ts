@@ -15,7 +15,7 @@ export interface FoodItem {
 export const FOOD_ITEMS: Array<FoodItem> = [
   {
     name: "PecceSushi",
-    kcal: 450,
+    kcal: 850,
     imageUrl: Sushi
   },
   {
